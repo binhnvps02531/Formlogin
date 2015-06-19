@@ -1,0 +1,13 @@
+c:\users\pc01\documents\visual studio 2012\Projects\Formlogin\Formlogin\bin\Debug\Formlogin.exe.config
+C:\Users\Admin\Downloads\Formlogin\Formlogin\bin\Debug\Formlogin.exe.config
+C:\Users\Admin\Downloads\Formlogin\Formlogin\bin\Debug\Formlogin.exe
+C:\Users\Admin\Downloads\Formlogin\Formlogin\bin\Debug\Formlogin.pdb
+C:\Users\Admin\Downloads\Formlogin\Formlogin\bin\Debug\Formlogin.xml
+C:\Users\Admin\Downloads\Formlogin\Formlogin\obj\Debug\Formlogin.frmlogin.resources
+C:\Users\Admin\Downloads\Formlogin\Formlogin\obj\Debug\Formlogin.frmmain.resources
+C:\Users\Admin\Downloads\Formlogin\Formlogin\obj\Debug\Formlogin.frmquanly.resources
+C:\Users\Admin\Downloads\Formlogin\Formlogin\obj\Debug\Formlogin.Resources.resources
+C:\Users\Admin\Downloads\Formlogin\Formlogin\obj\Debug\Formlogin.vbproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\Formlogin\Formlogin\obj\Debug\Formlogin.exe
+C:\Users\Admin\Downloads\Formlogin\Formlogin\obj\Debug\Formlogin.xml
+C:\Users\Admin\Downloads\Formlogin\Formlogin\obj\Debug\Formlogin.pdb
